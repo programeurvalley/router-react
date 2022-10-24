@@ -1,6 +1,18 @@
-#movieList {
+
+#movieList{
     background-color: black;
-    padding:25px
+    padding:25px;
+}
+
+#detailsmovie{
+    background-color: black;
+    padding:25px;
+    height:655px;
+}
+
+.label-title{
+    margin-left: 10px;
+    color : white;
 }
 
 h2 {
